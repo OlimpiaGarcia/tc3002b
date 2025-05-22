@@ -5,7 +5,7 @@
 ```
 <program> ::=
 	<declaration-sequence>
-	<statement-sequence>
+	<ment-statesequence>
 			  
 <declaration-statement> ::=
   VAR <identifier> <identifier-list>
